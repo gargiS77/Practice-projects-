@@ -1,1 +1,2 @@
-# FFFiles
+# Small practice projects
+
